@@ -1,2 +1,1 @@
-Data Science Practicum
-DeFi Analytics Dashboard
+Data Science Practicum - DeFi Analytics Dashboard
