@@ -1,3 +1,9 @@
+import requests
+import json
+import pandas as pd
+from flatten_json import flatten
+from tkinter import *
+
 def submit():
     df=[]
     addy = entry.get()
