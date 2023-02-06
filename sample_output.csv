@@ -1,0 +1,28 @@
+Address,id,protocolName,Symbol,Protocol_id,Name,Detail_type,Adapter_id,Token_id,Amount,Timestamp
+**********************************,op_velodrome,Velodrome,sUSD,op_synthetix,Farming,common,solidly_farming,supply,341620.2522,2023-02-06 04:49:33.562689+00:00
+**********************************,op_velodrome,Velodrome,LUSD,,Farming,,,supply,406646.9131,2023-02-06 04:49:33.562689+00:00
+**********************************,op_velodrome,Velodrome,USDC,,Farming,,solidly_farming,supply,144391.2073,2023-02-06 04:49:33.562689+00:00
+**********************************,op_velodrome,Velodrome,MIM,,Farming,,solidly_farming,supply,172727.0324,2023-02-06 04:49:33.562689+00:00
+**********************************,op_velodrome,Velodrome,USDC,,Farming,,solidly_farming,supply,99069.35535,2023-02-06 04:49:33.562689+00:00
+**********************************,op_velodrome,Velodrome,USDT,,Farming,,solidly_farming,supply,93223.0518,2023-02-06 04:49:33.562689+00:00
+**********************************,op_velodrome,Velodrome,USDC,,Farming,,solidly_farming,supply,628054.3424,2023-02-06 04:49:33.562689+00:00
+**********************************,op_velodrome,Velodrome,MAI,op_mai,Farming,,solidly_farming,supply,874613.523,2023-02-06 04:49:33.562689+00:00
+**********************************,arb_synapse,Synapse,nUSD,,Farming,common,synapse_farming,supply,416145.5453,2023-02-06 04:49:33.562689+00:00
+**********************************,matic_synapse,Synapse,nUSD,,Farming,common,synapse_farming,supply,144714.0575,2023-02-06 04:49:33.562689+00:00
+**********************************,op_synapse,Synapse,nUSD,,Farming,common,synapse_farming,supply,117021.1889,2023-02-06 04:49:33.562689+00:00
+**********************************,arb_synapse,Synapse,USDC,arb_tracer,Farming,,,supply,541249.0688,2023-02-06 04:49:33.562689+00:00
+**********************************,matic_synapse,Synapse,DAI,,Farming,,,supply,345786.1793,2023-02-06 04:49:33.562689+00:00
+**********************************,op_synapse,Synapse,USDC,,Farming,,,supply,181490.2567,2023-02-06 04:49:33.562689+00:00
+**********************************,arb_synapse,Synapse,USDT,,Farming,,,supply,540479.514,2023-02-06 04:49:33.562689+00:00
+**********************************,matic_synapse,Synapse,USDC,,Farming,,,supply,315624.1837,2023-02-06 04:49:33.562689+00:00
+**********************************,matic_synapse,Synapse,USDT,,Farming,,,supply,273935.0686,2023-02-06 04:49:33.562689+00:00
+**********************************,solidlydex,Solidly,MIM,,Farming,common,solidly_farming,supply,134160.7867,2023-02-06 04:49:33.562689+00:00
+**********************************,solidlydex,Solidly,USDC,,Farming,,,supply,122740.1548,2023-02-06 04:49:33.562689+00:00
+**********************************,solidlydex,Solidly,USDC,,Farming,,solidly_farming,supply,312666.3669,2023-02-06 04:49:33.562689+00:00
+**********************************,solidlydex,Solidly,USDT,,Farming,,solidly_farming,supply,283584.089,2023-02-06 04:49:33.562689+00:00
+**********************************,matic_hop,Hop Protocol,USDT,,Farming,common,uniswap2_farming,supply,47803.16985,2023-02-06 04:49:33.562689+00:00
+**********************************,matic_hop,Hop Protocol,hUSDT,matic_hop,Farming,,,supply,46947.7355,2023-02-06 04:49:33.562689+00:00
+**********************************,convex,Convex,MIM,,Staked,common,convex_staked,supply,999906.0803,2023-02-06 04:49:33.562689+00:00
+**********************************,convex,Convex,DAI,makerdao,Staked,,,supply,364602.5146,2023-02-06 04:49:33.562689+00:00
+**********************************,convex,Convex,USDC,,Staked,,,supply,419712.4467,2023-02-06 04:49:33.562689+00:00
+**********************************,convex,Convex,USDT,,Staked,,,supply,213065.042,2023-02-06 04:49:33.562689+00:00
